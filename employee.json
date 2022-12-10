@@ -4,42 +4,48 @@
     "empCode": 4001,
     "employeeName": "Pavan Kalyan",
     "employeeEmail": "Pavankalyan@gmail.com",
-    "salary":100000
+    "salary":100000,
+    "month":"jan"
   },
   {
     "id": 2,
     "empCode": 4002,
     "employeeName": "Pavanesh",
     "employeeEmail": "Pavanesh@gmail.com",
-   "salary":109000
+   "salary":109000,
+    "month":"dec"
   },
   {
     "id": 3,
     "empCode": 4003,
     "employeeName": "Sharmila",
     "employeeEmail": "Sharmila@gmail.com",
-    "salary":200000
+    "salary":200000,
+    "month":"mar"
   },
   {
     "id": 4,
     "empCode": 4004,
     "employeeName": "Sakshi",
     "employeeEmail": "Sakshi@gmail.com",
-    "salary":500000
+    "salary":500000,
+    "month":"jun"
   },
   {
     "id": 5,
     "empCode": 4005,
     "employeeName": "Rahul",
     "employeeEmail": "Rahul@gmail.com",
-    "salary":7800000
+    "salary":7800000,
+    "month":"aug"
   },
   {
     "id": 6,
     "empCode": 4006,
     "employeeName": "Sagar",
     "employeeEmail": "Sagar@gmail.com",
-    "salary":9800000
+    "salary":9800000,
+    "month":"apr"
   },
   {
     "id": 7,
@@ -47,27 +53,31 @@
     "employeeName": "Harsha",
     "employeeEmail": "harsha@abc.com",
     "scoreCard": 66,
-    "salary":107890
+    "salary":107890,
+    "month":"dec"
   },
   {
     "id": 8,
     "empCode": 4008,
     "employeeName": "Varsha",
     "employeeEmail": "varsha@abc.com",
-    "salary":790000
+    "salary":790000,
+    "month":"dec"
   },
   {
     "id": 9,
     "empCode": 4009,
     "employeeName": "Naveen",
     "employeeEmail": "naveen@abc.com",
-   "salary":900000
+   "salary":900000,
+    "month":"sep"
   },
   {
     "id": 10,
     "empCode": 4010,
     "employeeName": "Gayatri",
     "employeeEmail": "gayatri@abc.com",
-    "salary":56789898
+    "salary":56789898,
+    "month":"jul"
   }
 ]
