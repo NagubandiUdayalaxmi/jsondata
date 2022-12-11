@@ -1,4 +1,4 @@
-let url = "https://nagubandiudayalaxmi.github.io/jsondata/employee.json";
+let url = "./employee.json";
 let out = "";
 fetch(url, {
   method: "GET",
